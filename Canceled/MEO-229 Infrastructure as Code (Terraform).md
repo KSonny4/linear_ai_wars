@@ -4,4 +4,6 @@
 
 ---
 
-Migrating to VPS; using Docker Compose instead.
+## CANCELED - Migrating to VPS
+
+Defining infra via Docker Compose instead.

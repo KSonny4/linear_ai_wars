@@ -4,4 +4,4 @@
 
 ---
 
-Extracted initial documentation from source code constants.
+Extracted API endpoints and game mechanics from code constants to generate the initial SKILL.md.

@@ -4,4 +4,4 @@
 
 ---
 
-Auth-service removed in favor of integrated engine auth.
+Status: CANCELLED. Auth integrated into engine.

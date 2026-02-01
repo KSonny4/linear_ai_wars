@@ -4,4 +4,4 @@
 
 ---
 
-Consolidated auth into game-engine and removed redundant package.
+Decided to use simple API key auth in game-engine instead of custom auth-service. Deleted `packages/auth-service` directory.

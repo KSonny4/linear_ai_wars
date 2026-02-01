@@ -1,4 +1,4 @@
-# [MEO-162] Remove Night Bonus system
+# [MEO-159] Remove night mode from game mechanics
 
 **Status:** Duplicate
 

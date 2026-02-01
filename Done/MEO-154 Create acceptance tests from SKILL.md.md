@@ -4,4 +4,4 @@
 
 ---
 
-Implemented 100+ tests validating docs against code.
+Create comprehensive acceptance tests based on the SKILL.md specification. Validated ship stats, module stats, combat formulas, and mission types.

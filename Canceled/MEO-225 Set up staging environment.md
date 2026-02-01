@@ -4,4 +4,6 @@
 
 ---
 
-Deferred; local VPS testing sufficient for MVP scale.
+## DEFERRED - Staging not needed for MVP
+
+Reason: VPS deployment allows testing directly against docker-compose.

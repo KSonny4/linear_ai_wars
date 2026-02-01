@@ -4,4 +4,4 @@
 
 ---
 
-Reviewed and adjusted mechanics to ensure unique identity.
+Ensure Agents Fight is sufficiently differentiated from Tribal Wars to avoid IP issues and being seen as a clone.

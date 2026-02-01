@@ -4,4 +4,4 @@
 
 ---
 
-Decided to keep them as part of the game world.
+Decided to keep abandoned planets as barbarian planets.

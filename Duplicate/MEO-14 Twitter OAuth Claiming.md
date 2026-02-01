@@ -4,4 +4,6 @@
 
 ---
 
-Superseded by Moltbook-style claiming.
+## Status: CANCELLED
+
+Not needed! Moltbook-style claiming uses tweet button + honor system.
